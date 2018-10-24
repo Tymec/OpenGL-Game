@@ -1,0 +1,43 @@
+﻿  Camera.cpp
+e:\opengl\openglvs\openglvs\camera.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  DisplayManager.cpp
+e:\opengl\openglvs\openglvs\displaymanager.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Entity.cpp
+e:\opengl\openglvs\openglvs\model.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  EntityRenderer.cpp
+e:\opengl\openglvs\openglvs\entityrenderer.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Game.cpp
+e:\opengl\openglvs\openglvs\game.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  InputManager.cpp
+e:\opengl\openglvs\openglvs\inputmanager.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Light.cpp
+e:\opengl\openglvs\openglvs\light.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Loader.cpp
+e:\opengl\openglvs\openglvs\loader.h(6): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+e:\opengl\openglvs\openglvs\game.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  MasterRenderer.cpp
+e:\opengl\openglvs\openglvs\staticshader.h(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Model.cpp
+e:\opengl\openglvs\openglvs\model.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ModelTexture.cpp
+e:\opengl\openglvs\openglvs\modeltexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  OBJLoader.cpp
+e:\opengl\openglvs\openglvs\objloader.h(9): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Player.cpp
+e:\opengl\openglvs\openglvs\player.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  StaticShader.cpp
+e:\opengl\openglvs\openglvs\staticshader.h(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Terrain.cpp
+e:\opengl\openglvs\openglvs\model.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TerrainRenderer.cpp
+e:\opengl\openglvs\openglvs\terrainshader.h(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TerrainShader.cpp
+e:\opengl\openglvs\openglvs\terrainshader.h(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TerrainTexture.cpp
+e:\opengl\openglvs\openglvs\terraintexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TerrainTexturePack.cpp
+e:\opengl\openglvs\openglvs\terraintexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Compiling...
+  TexturedModel.cpp
+e:\opengl\openglvs\openglvs\model.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
