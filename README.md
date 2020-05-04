@@ -1,4 +1,5 @@
-# OpenGL-Game
+OpenGL-Game [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+===
 
 ### A game made in C++ with a custom OpenGL engine
 
